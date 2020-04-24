@@ -24,4 +24,4 @@ if (require.main === module) {
     if (e) throw e
     console.log(`listening on port ${PORT}`)
   })
-}
+};
